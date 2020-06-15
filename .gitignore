@@ -20,3 +20,5 @@ node_modules
 # Cache for Parcel
 .cache
 
+# make script
+.bat

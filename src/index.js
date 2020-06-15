@@ -2,7 +2,7 @@ import "./styles.css";
 import Sanity from "/src/sanity.js";
 
 document.getElementById("app").innerHTML = `
-<h1>Sanity Overflow</h1>
+<h1>貴様の理性はもう溢れている、ドクター</h1>
 <h2 id="sanity1"></h2>
 <div id="form1"></div>
 <h2 id="sanity2"></h2>
